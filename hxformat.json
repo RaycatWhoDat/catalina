@@ -1,0 +1,26 @@
+{
+    "sameLine": {
+        "ifBody": "same",
+        "elseBody": "same"
+    },
+    "whitespace": {
+        "bracesConfig": {
+            "blockBraces": {
+                "openingPolicy": "around",
+                "closingPolicy": "around"
+            }
+        },
+        "colonPolicy": "after",
+        "typeHintColonPolicy": "after",
+        "addLineCommentSpace": "true"
+    },
+    "lineEnds": {
+        "blockCurly": {
+            "leftCurly": "after",
+            "emptyCurly": "both"
+        }
+    },
+    "indentation": {
+        "character": "  "
+    }
+}
